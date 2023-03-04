@@ -1,9 +1,8 @@
 about funtion.
 
-in add_path and  update_path
+in add_path and  update_path methods 
 
--must useing to the shortest paths by impossible.
--don't use long paths because my functions can't handle.
+-if can't adding or updating the paths maybe trying to using short path instead of long paths.
 
 
 about v0.1
