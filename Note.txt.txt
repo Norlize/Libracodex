@@ -8,4 +8,5 @@ in add_path and  update_path
 
 about v0.1
 
--this frist puslish has problemsabout environment and failed installation .
+-this frist publish and have a probelm about setup.py .
+
