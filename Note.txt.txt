@@ -1,0 +1,11 @@
+about funtion.
+
+in add_path and  update_path
+
+-must useing to the shortest paths by impossible.
+-don't use long paths because my functions can't handle.
+
+
+about v0.1
+
+-this frist puslish has problemsabout environment and failed installation .
