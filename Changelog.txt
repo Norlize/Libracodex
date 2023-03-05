@@ -1,0 +1,13 @@
+version 0.1
+-first release version and failed from setup.py.
+
+version 0.2
+-fix about setup.py.
+
+version 0.3
+-chang name from select ot codex function into path_chooser.
+-remove full to codex function.
+-add configure_path function.
+-update Example.py
+-add add_paths_by_absolute function.
+-update about function.
